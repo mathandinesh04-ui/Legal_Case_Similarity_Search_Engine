@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/similarity")\n\n@router.get("/")\ndef get_similarity():\n    return {"status": "ok"}\n
