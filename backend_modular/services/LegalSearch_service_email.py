@@ -1,0 +1,1 @@
+"""\nService layer: email\n"""\nclass EmailService:\n    def execute(self):\n        pass\n
