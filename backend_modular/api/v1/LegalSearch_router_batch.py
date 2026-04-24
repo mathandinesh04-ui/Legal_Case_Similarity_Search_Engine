@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/batch")\n\n@router.get("/")\ndef get_batch():\n    return {"status": "ok"}\n
