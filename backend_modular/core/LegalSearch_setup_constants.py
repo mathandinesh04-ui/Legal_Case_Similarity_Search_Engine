@@ -1,0 +1,1 @@
+"""\nCore configuration module: constants\n"""\ndef init_constants():\n    pass\n
