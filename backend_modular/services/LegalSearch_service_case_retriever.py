@@ -1,0 +1,1 @@
+"""\nService layer: case_retriever\n"""\nclass CaseRetrieverService:\n    def execute(self):\n        pass\n
