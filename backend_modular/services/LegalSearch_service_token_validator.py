@@ -1,0 +1,1 @@
+"""\nService layer: token_validator\n"""\nclass TokenValidatorService:\n    def execute(self):\n        pass\n
