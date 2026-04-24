@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/graph")\n\n@router.get("/")\ndef get_graph():\n    return {"status": "ok"}\n
