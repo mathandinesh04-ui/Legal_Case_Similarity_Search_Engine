@@ -1,0 +1,1 @@
+"""\nCore configuration module: middlewares\n"""\ndef init_middlewares():\n    pass\n
