@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass HealthCheck(BaseModel):\n    pass\n
