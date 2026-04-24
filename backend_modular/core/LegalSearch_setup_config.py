@@ -1,0 +1,1 @@
+"""\nCore configuration module: config\n"""\ndef init_config():\n    pass\n
