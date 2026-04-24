@@ -1,0 +1,1 @@
+"""\nService layer: rate_tracking\n"""\nclass RateTrackingService:\n    def execute(self):\n        pass\n
