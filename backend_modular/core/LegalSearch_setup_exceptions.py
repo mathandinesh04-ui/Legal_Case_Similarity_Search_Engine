@@ -1,0 +1,1 @@
+"""\nCore configuration module: exceptions\n"""\ndef init_exceptions():\n    pass\n
