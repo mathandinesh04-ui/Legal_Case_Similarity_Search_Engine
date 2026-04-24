@@ -1,0 +1,1 @@
+"""\nCore configuration module: security\n"""\ndef init_security():\n    pass\n
