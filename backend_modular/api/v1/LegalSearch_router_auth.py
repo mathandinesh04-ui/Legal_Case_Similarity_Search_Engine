@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/auth")\n\n@router.get("/")\ndef get_auth():\n    return {"status": "ok"}\n
