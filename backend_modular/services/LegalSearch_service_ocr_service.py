@@ -1,0 +1,1 @@
+"""\nService layer: ocr_service\n"""\nclass OcrServiceService:\n    def execute(self):\n        pass\n
