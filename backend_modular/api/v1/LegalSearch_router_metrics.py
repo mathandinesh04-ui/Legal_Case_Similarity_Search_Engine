@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/metrics")\n\n@router.get("/")\ndef get_metrics():\n    return {"status": "ok"}\n
