@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass CourtMetadata(BaseModel):\n    pass\n
