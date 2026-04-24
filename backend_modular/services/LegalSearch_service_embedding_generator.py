@@ -1,0 +1,1 @@
+"""\nService layer: embedding_generator\n"""\nclass EmbeddingGeneratorService:\n    def execute(self):\n        pass\n
