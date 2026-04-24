@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/king")\n\n@router.get("/")\ndef get_king():\n    return {"status": "ok"}\n
