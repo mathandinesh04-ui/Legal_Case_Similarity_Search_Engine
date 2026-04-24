@@ -1,0 +1,1 @@
+"""\nService layer: notification\n"""\nclass NotificationService:\n    def execute(self):\n        pass\n
