@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/docs")\n\n@router.get("/")\ndef get_docs():\n    return {"status": "ok"}\n
