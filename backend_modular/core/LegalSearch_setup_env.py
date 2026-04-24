@@ -1,0 +1,1 @@
+"""\nCore configuration module: env\n"""\ndef init_env():\n    pass\n
