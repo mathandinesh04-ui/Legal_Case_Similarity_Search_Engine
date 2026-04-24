@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass NerRequest(BaseModel):\n    pass\n
