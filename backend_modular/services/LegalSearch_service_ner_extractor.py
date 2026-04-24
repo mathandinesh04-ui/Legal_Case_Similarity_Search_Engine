@@ -1,0 +1,1 @@
+"""\nService layer: ner_extractor\n"""\nclass NerExtractorService:\n    def execute(self):\n        pass\n
