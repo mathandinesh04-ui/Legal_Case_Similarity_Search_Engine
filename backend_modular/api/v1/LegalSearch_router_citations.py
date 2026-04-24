@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/citations")\n\n@router.get("/")\ndef get_citations():\n    return {"status": "ok"}\n
