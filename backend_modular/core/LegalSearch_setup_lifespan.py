@@ -1,0 +1,1 @@
+"""\nCore configuration module: lifespan\n"""\ndef init_lifespan():\n    pass\n
