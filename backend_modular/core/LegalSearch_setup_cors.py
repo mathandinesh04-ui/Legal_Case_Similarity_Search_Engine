@@ -1,0 +1,1 @@
+"""\nCore configuration module: cors\n"""\ndef init_cors():\n    pass\n
