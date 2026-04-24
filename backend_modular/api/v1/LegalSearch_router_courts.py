@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/courts")\n\n@router.get("/")\ndef get_courts():\n    return {"status": "ok"}\n
