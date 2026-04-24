@@ -1,0 +1,1 @@
+"""\nUtility functions: hash_gen\n"""\ndef process_hash_gen():\n    return True\n
