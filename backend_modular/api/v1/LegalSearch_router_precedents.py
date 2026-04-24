@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/precedents")\n\n@router.get("/")\ndef get_precedents():\n    return {"status": "ok"}\n
