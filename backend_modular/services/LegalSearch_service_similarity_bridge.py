@@ -1,0 +1,1 @@
+"""\nService layer: similarity_bridge\n"""\nclass SimilarityBridgeService:\n    def execute(self):\n        pass\n
