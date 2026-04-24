@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass SpacyEntities(BaseModel):\n    pass\n
