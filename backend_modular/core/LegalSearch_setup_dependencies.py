@@ -1,0 +1,1 @@
+"""\nCore configuration module: dependencies\n"""\ndef init_dependencies():\n    pass\n
