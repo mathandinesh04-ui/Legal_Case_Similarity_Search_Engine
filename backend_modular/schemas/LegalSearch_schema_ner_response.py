@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass NerResponse(BaseModel):\n    pass\n
