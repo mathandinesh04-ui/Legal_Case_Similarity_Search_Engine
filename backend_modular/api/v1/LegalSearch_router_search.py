@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/search")\n\n@router.get("/")\ndef get_search():\n    return {"status": "ok"}\n
