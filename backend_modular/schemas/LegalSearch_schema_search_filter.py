@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass SearchFilter(BaseModel):\n    pass\n
