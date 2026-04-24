@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass CaseSimilarityRes(BaseModel):\n    pass\n
