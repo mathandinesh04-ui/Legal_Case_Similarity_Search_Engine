@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass UserAuth(BaseModel):\n    pass\n
