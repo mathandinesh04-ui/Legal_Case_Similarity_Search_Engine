@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass CitationLinker(BaseModel):\n    pass\n
