@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/webhooks")\n\n@router.get("/")\ndef get_webhooks():\n    return {"status": "ok"}\n
