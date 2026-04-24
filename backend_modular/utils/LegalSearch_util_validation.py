@@ -1,0 +1,1 @@
+"""\nUtility functions: validation\n"""\ndef process_validation():\n    return True\n
