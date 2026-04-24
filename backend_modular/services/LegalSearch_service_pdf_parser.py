@@ -1,0 +1,1 @@
+"""\nService layer: pdf_parser\n"""\nclass PdfParserService:\n    def execute(self):\n        pass\n
