@@ -1,0 +1,1 @@
+"""\nCore configuration module: database\n"""\ndef init_database():\n    pass\n
