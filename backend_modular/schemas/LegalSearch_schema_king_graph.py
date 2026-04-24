@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass KingGraph(BaseModel):\n    pass\n
