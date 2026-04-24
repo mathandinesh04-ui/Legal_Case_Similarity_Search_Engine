@@ -1,0 +1,1 @@
+"""\nService layer: king_processor\n"""\nclass KingProcessorService:\n    def execute(self):\n        pass\n
