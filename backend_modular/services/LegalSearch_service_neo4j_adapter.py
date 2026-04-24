@@ -1,0 +1,1 @@
+"""\nService layer: neo4j_adapter\n"""\nclass Neo4JAdapterService:\n    def execute(self):\n        pass\n
