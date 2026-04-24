@@ -1,0 +1,1 @@
+"""\nService layer: html_parser\n"""\nclass HtmlParserService:\n    def execute(self):\n        pass\n
