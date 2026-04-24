@@ -1,0 +1,1 @@
+"""\nCore configuration module: logging\n"""\ndef init_logging():\n    pass\n
