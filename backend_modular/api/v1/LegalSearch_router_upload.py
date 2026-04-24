@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/upload")\n\n@router.get("/")\ndef get_upload():\n    return {"status": "ok"}\n
