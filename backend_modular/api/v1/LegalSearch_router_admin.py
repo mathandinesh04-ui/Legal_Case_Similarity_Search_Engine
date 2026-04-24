@@ -1,0 +1,1 @@
+from fastapi import APIRouter\n\nrouter = APIRouter(prefix="/admin")\n\n@router.get("/")\ndef get_admin():\n    return {"status": "ok"}\n
