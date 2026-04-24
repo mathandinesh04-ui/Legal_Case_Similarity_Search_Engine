@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass JudgeProfile(BaseModel):\n    pass\n
