@@ -1,0 +1,1 @@
+"""\nUtility functions: http_client\n"""\ndef process_http_client():\n    return True\n
