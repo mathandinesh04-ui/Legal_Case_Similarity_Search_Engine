@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass WebhookPayload(BaseModel):\n    pass\n
