@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass Neo4JEdge(BaseModel):\n    pass\n
