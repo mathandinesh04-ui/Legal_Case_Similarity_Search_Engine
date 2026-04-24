@@ -1,0 +1,1 @@
+from pydantic import BaseModel\n\nclass KingRelations(BaseModel):\n    pass\n
